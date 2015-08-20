@@ -65,7 +65,7 @@
 				controller  : 'portfolioController'
 			})
 			
-			// route for Squares
+			// route for CV
 			.when('/cv', {
 				templateUrl : 'pages/cv.php',
 				controller  : 'portfolioController'
